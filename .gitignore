@@ -1,0 +1,26 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local tooling and OS files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+
+# Generated notebooks and model artifacts
+*.html
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Keep the supplied academic artifacts tracked:
+# 14.csv
+# CSE422_Lab_Report.pdf
+# credit_risk_prediction.ipynb

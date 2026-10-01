@@ -113,11 +113,6 @@ The Neural Network and K-Means cells are computationally heavier than the explor
 └── credit_risk_prediction.ipynb
 ```
 
-## Citation and academic use
+## Academic Fairness Notice
 
-If you reuse this work, cite the accompanying report:
-
-> Enan Mahmud, “CSE 422 Lab Project: Credit Risk Prediction,” BRAC University, 2026.
-
-The included dataset is provided for academic use with this project. Check the original dataset source and its terms before redistributing it or using it for consequential decisions.
-
+This repository is intended for academic learning and may help readers understand how to approach a similar project. Please study, adapt, and implement the work independently rather than directly copying or submitting it.
